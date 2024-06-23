@@ -27,6 +27,8 @@ To install the necessary packages, run the following commands in your terminal:
 ```
 
 ## Usage
-To run the application, navigate to the directory containing this README and execute:
-`streamlit run main.py`
+To run the application, navigate to the directory and execute:
+- Install dependencies : `pip install -r requirements.txt`
+- Run the app : `streamlit run main.py`
+
 
