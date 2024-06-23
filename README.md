@@ -24,7 +24,9 @@ To install the necessary packages, run the following commands in your terminal:
 `pip install llama-index-tools-yahoo-finance`
 `pip install llama-index-llms-gemini`
 `pip install llama-index-embeddings-gemini`
+```
 
 ## Usage
 To run the application, navigate to the directory containing this README and execute:
+`streamlit run main.py`
 
